@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+
+.pixelify-sans {
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    background-image: url(./img/kanto-map.jpeg);
+    background-size: auto; 
+}
+    body { 
+
+        font-family: "Pixelify Sans", sans-serif;
+        
+    }
+
+    img {
+            width: 400px; 
+        }
+
+    h1 {
+        text-align: center;
+        color: white; 
+        background-color: rgba(0, 0, 0, 0.5);
+         text-shadow: 2px rgba(0, 0, 0, 0.5);
+        margin: auto;
+        font-size: xx-large;
+    }
+
+    
+    h2{
+        text-align: left;
+        color: rgb(255, 255, 255); 
+        margin: auto;
+        font-size: xx-large;
+    }
+
+    a {
+        text-decoration: none; 
+        color: rgb(255, 255, 255); 
+    }
+
+
+    h3 {
+
+        text-decoration: none; 
+        color: rgb(255, 255, 255);
+
+    }
+
+    p {
+
+        color: rgb(255, 255, 255); 
+    }
+
+
+.Gr2 {
+
+        text-align: right;
+        width: 100px;
+
+    }
+
+
+.Ky2 {
+
+        text-align: right;
+        width: 100px;
+    }
+
+.Rq2 {
+
+    width: 10%;
+    height: 10%;
+}
+   
+.KyP2{
+
+    width: 10%;
+    height: 10%;
+}
+
+.centrado {
+
+    text-align: center;
+    position: fixed;
+    bottom: 20px;
+    width: 100%;
+
+}
+  
